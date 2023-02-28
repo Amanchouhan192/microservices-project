@@ -2,7 +2,7 @@
 eureka:
   spring:
     application:
-      name: Config-dev
+      name: Config-Dev
   instance:
     prefer-ip-address: true
   client:
